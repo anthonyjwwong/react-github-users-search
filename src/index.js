@@ -7,16 +7,13 @@ import { GithubProvider } from './context/context';
 import { Auth0Provider } from '@auth0/auth0-react';
 
 
-//domain: dev-8r3js7ry.us.auth0.com
-//clientId:5NCrAslraFPHQds69CLLmvDIh4DCZgEs
 
-const CLIENT_ID = process.env.REACT_APP_CLIENT_ID;
 
 ReactDOM.render(
   <React.StrictMode>
     <Auth0Provider
         domain='dev-8r3js7ry.us.auth0.com'
-        clientId= {CLIENT_ID}
+        clientId= '5NCrAslraFPHQds69CLLmvDIh4DCZgEs'
         redirectUri={window.location.origin}
         cacheLocation='localstorage'
       >
