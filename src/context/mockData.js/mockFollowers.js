@@ -1,0 +1,42 @@
+export default [
+  {
+  "login": "atherdon",
+  "id": 1469198,
+  "node_id": "MDQ6VXNlcjE0NjkxOTg=",
+  "avatar_url": "https://avatars.githubusercontent.com/u/1469198?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/atherdon",
+  "html_url": "https://github.com/atherdon",
+  "followers_url": "https://api.github.com/users/atherdon/followers",
+  "following_url": "https://api.github.com/users/atherdon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/atherdon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/atherdon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/atherdon/subscriptions",
+  "organizations_url": "https://api.github.com/users/atherdon/orgs",
+  "repos_url": "https://api.github.com/users/atherdon/repos",
+  "events_url": "https://api.github.com/users/atherdon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/atherdon/received_events",
+  "type": "User",
+  "site_admin": false
+  },
+  {
+  "login": "Kah919",
+  "id": 35677022,
+  "node_id": "MDQ6VXNlcjM1Njc3MDIy",
+  "avatar_url": "https://avatars.githubusercontent.com/u/35677022?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Kah919",
+  "html_url": "https://github.com/Kah919",
+  "followers_url": "https://api.github.com/users/Kah919/followers",
+  "following_url": "https://api.github.com/users/Kah919/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Kah919/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Kah919/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Kah919/subscriptions",
+  "organizations_url": "https://api.github.com/users/Kah919/orgs",
+  "repos_url": "https://api.github.com/users/Kah919/repos",
+  "events_url": "https://api.github.com/users/Kah919/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Kah919/received_events",
+  "type": "User",
+  "site_admin": false
+  }
+  ]
